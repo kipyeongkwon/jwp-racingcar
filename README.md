@@ -1,17 +1,17 @@
 # jwp-racingcar
 
 
-##DOMAIN
-+ CAR
+## DOMAIN
+ + CAR
 
 
 
-##VIEW
-+OUTPUT
-+INPUT
+## VIEW
++ OUTPUT
++ INPUT
 
 
 
 
-##CONTROLLER
-+GAMECONTROLLER
+## CONTROLLER
++ GAMECONTROLLER
